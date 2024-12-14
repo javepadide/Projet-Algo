@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Projet_Algo
 {
-    internal class Plateau
+    public class Plateau
     {
+        
     }
 }

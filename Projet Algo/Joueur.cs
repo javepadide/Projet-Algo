@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Projet_Algo
 {
-    internal class Joueur
+    public class Joueur
     {
         public string Nom { get; set; }
 
